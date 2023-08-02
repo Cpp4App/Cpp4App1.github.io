@@ -4,7 +4,7 @@ In this project, we propose a novel multi-modal framework, namely **SeePrivacy**
 
 The showcase website of our **SeePrivacy**: https://cpp4app.github.io/SeePrivacy
 
-
+![](assets/images/@R8]QPYIE9HZPH{HED_Y@2N.png)
 
 The template of our demostration website is taken from https://github.com/learning-zone/website-templates/tree/master.
 
